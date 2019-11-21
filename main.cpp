@@ -1,7 +1,7 @@
 //#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include "segy_class.h"
-
+#include"class_func.cpp"
 int main () {
 
 	segy sgy;
